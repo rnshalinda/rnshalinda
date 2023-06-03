@@ -23,10 +23,7 @@ _**Fun fact about me, <br>
 </picture>
 
 <img align ="top" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnshalinda&size_weight=0.5&count_weight=0.5" />
-
-<br><!-- line break -->
-<br>
-
+<!--<br> line break -->
 
 ## Skills:
 
