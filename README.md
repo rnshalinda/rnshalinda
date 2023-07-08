@@ -5,7 +5,7 @@ _**Fun fact about me, <br>
 :mailbox: Reach me on!
 
 [![Twitter Badge](https://img.shields.io/badge/-@rnshalinda-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/rnshalinda) 
-[![Linkedin Badge](https://img.shields.io/badge/-Shalinda-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-r-nirmala-shalinda/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Shalinda-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rnshalinda/) 
 [![insta Badge](https://img.shields.io/badge/-@nxshalinda-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/nxshalinda?igshid=ZGUzMzM3NWJiOQ==) 
 [![gMail Badge](https://img.shields.io/badge/-nsrhewa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nsrhewa@gmail.com)
 
