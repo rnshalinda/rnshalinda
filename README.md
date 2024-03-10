@@ -1,6 +1,6 @@
 ## Hi there, I'm Shalinda! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px"/>
 _**Fun fact about me, <br>
-"I prefer simplicity in most aspects of my life, so I can dedicate my intricate efforts into things that truly matter."**_
+"I prefer simplicity in most aspects of my life."**_
 
 :mailbox: Reach me on!
 
