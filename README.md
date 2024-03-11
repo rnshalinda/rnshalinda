@@ -2,7 +2,7 @@
 _**Fun fact about me, <br>
 "I prefer simplicity in most aspects of my life."**_
 
-:mailbox: Reach me on!
+:mailbox: Reach me on:
 
 [![Twitter Badge](https://img.shields.io/badge/-@rnshalinda-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/rnshalinda) 
 [![Linkedin Badge](https://img.shields.io/badge/-Shalinda-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rnshalinda/) 
