@@ -6,8 +6,9 @@ _**Fun fact about me, <br>
 
 [![Twitter Badge](https://img.shields.io/badge/-@rnshalinda-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/rnshalinda) 
 [![Linkedin Badge](https://img.shields.io/badge/-Shalinda-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rnshalinda/) 
-[![insta Badge](https://img.shields.io/badge/-@nxshalinda-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/nxshalinda?igshid=ZGUzMzM3NWJiOQ==) 
 [![gMail Badge](https://img.shields.io/badge/-nsrhewa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nsrhewa@gmail.com)
+<!--[![insta Badge](https://img.shields.io/badge/-@nxshalinda-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/nxshalinda?igshid=ZGUzMzM3NWJiOQ==) -->
+
 
 
 <picture>
@@ -39,13 +40,20 @@ _**Fun fact about me, <br>
 
 [![Dev C++](https://img.shields.io/badge/-Dev--C%2B%2B-%231178d4?style=flat-square)](#)
 [![mikroC](https://img.shields.io/badge/-mikroC%20PRO-%23f44336?style=flat-square)](#)
-![Arduino](https://img.shields.io/badge/ARDUINO_IDE-143?style=flat-square&logo=Arduino&logoColor=white&color=white&labelColor=0bccc2)
+![Arduino](https://img.shields.io/badge/ARDUINO-143?style=flat-square&logo=Arduino&logoColor=white&color=white&labelColor=0bccc2)
 [![MPLAB X](https://img.shields.io/badge/-MPLAB%C2%AEX%20IDE-445d6e?style=flat-square)](#)
 ![PyCharm](https://img.shields.io/badge/PYCHARM-143?style=flat-square&logo=Pycharm&logoColor=black&color=f1e232&labelColor=08e703)
+![Colab](https://img.shields.io/badge/Colab-whitesmoke?style=flat-square&logo=googlecolab&labelColor=gray)
+![VS code](https://img.shields.io/badge/_Code-blue?style=flat-square&label=VS&labelColor=blue&color=gray)
+![Jupyter](https://img.shields.io/badge/Jupyter-white?style=flat-square&logo=jupyter&logoColor=black&labelColor=white&color=%23F37626)
+
+
+
+
 
 #### Tools & Technologies
 
-[![MATLAB](https://img.shields.io/badge/MATLAB-%26%20SIMULINK-df6a11?style=flat-square)](#)
+[![MATLAB](https://img.shields.io/badge/MATLAB-SIMULINK-df6a11?style=flat-square)](#)
 [![Automation Studio](https://img.shields.io/badge/-Automation%20Studio-%232986cc?style=flat-square)](#)
 [![Pneumatics](https://img.shields.io/badge/-Pneumatics-%23239873?style=flat-square)](#)
 [![Multisim](https://img.shields.io/badge/NI-Multisim-%23681fac?style=flat-square)](#)
